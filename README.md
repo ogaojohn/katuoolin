@@ -40,13 +40,13 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 Please visit https://github.com/ogaojohn/katuoolin/issues
 
 # Donations
-- ![Katuoolin paypall](.readme/katuoolin_paypal.png)Paypal : ogaojohn10@gmail.com
-- skrill : ogaojohn10@gmail.com
+- ![Katuoolin paypall](.readme/katuoolin_paypal.png)  Paypal : ogaojohn10@gmail.com
+- ![Katuoolin skrill](.readme/katuoolin_paypal.png)  skrill : ogaojohn10@gmail.com
 
 
 # Contact
 
-- ![Katuoolin youtube](.readme/katuoolin_youtube.png)Youtube : https://youtube.com/ogaojohn
-- ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg)Whatsapp : https://web.whatsapp.com/ogaojohn
-- ![Katuoolin x](.readme/katuoolin_x.jpg)x: @ogaojohn
-- ![Katuoolin gmail](.readme/katuoolin_gmail.png)Email : ogaojohn10@gmail.com
+- ![Katuoolin youtube](.readme/katuoolin_youtube.jpg)  Youtube : https://youtube.com/ogaojohn
+- ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg)  Whatsapp : https://web.whatsapp.com/
+- ![Katuoolin x](.readme/katuoolin_x.jpg)  X: @ogaojohn
+- ![Katuoolin gmail](.readme/katuoolin_gmail.png)  Email : ogaojohn10@gmail.com
