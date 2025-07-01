@@ -29,7 +29,7 @@ With just a click it allows you to install all Kali linux tools.
 - ```sudo python katuoolin.py```
 
 # Video
-https://www.youtube.com/watch?v=ogaojohn
+![Katuoolin youtube](.readme/katuoolin_youtube.jpg):  https://www.youtube.com/watch?v=ogaojohn
 
 # Usage
 - Typing the number of a tool will install it
@@ -46,8 +46,8 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 Please visit https://github.com/ogaojohn/katuoolin/issues
 
 # Donations
-- ![Katuoolin paypall](.readme/katuoolin_paypal.png)Paypal : ogaojohn10@gmail.com
-- skrill : ogaojohn10@gmail.com
+- ![Katuoolin paypall](.readme/katuoolin_paypal.png)  Paypal : ogaojohn10@gmail.com
+- ![Katuoolin skrill](.readme/katuoolin_skrill.png)  skrill : ogaojohn10@gmail.com
 
 
 # Contact
