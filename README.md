@@ -17,19 +17,25 @@ With just a click it allows you to install all Kali linux tools.
 - An operating system (tested on kali)
 
 # Installation on kali
-- sudo su
-- git clone https://github.com/ogaojohn/katuoolin.git && cp katuoolin/katuoolin.py /usr/bin/katuoolin
-- chmod +x /usr/bin/katuoolin
-- sudo katuoolin 
+
+- ```sudo su ```
+
+- ```git clone https://github.com/ogaojohn/katuoolin.git ```
+
+- ``` cd katuoolin```
+
+- ```ls```
+
+- ```sudo python katuoolin.py```
 
 # Video
 https://www.youtube.com/watch?v=ogaojohn
 
 # Usage
 - Typing the number of a tool will install it
-- Typing 0 will install all Kali Linux tools
-- back : Go back
-- gohome : Go to the main menu
+- Typing ```0``` will install all Kali Linux tools
+- ```back``` : Go back
+- ```gohome``` : Go to the main menu
 - By installing armitage , you will install metasploit
 
 # Warning
@@ -46,7 +52,9 @@ Please visit https://github.com/ogaojohn/katuoolin/issues
 
 # Contact
 
-- ![Katuoolin youtube](.readme/katuoolin_youtube.png)Youtube : https://youtube.com/ogaojohn
-- ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg)Whatsapp : https://web.whatsapp.com/ogaojohn
+- ![Katuoolin youtube](.readme/katuoolin_youtube.png)Youtube: https://youtube.com/ogaojohn
+- ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg)Whatsapp : https://wa.me/message/FN4EPAOUM2VTJ1
 - ![Katuoolin x](.readme/katuoolin_x.jpg)x: @ogaojohn
 - ![Katuoolin gmail](.readme/katuoolin_gmail.png)Email : ogaojohn10@gmail.com
+- ![Katuoolin whatsappgroup](.readme/katuoolin_whatsappgroup.png)Whatsapp : https://chat.whatsapp.com/JIjiodM7f4T02D43gfjUTA
+
