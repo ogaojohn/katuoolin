@@ -151,7 +151,7 @@ def add_key():
 	if os.path.exists(tmp_key):
 		pass
 	else:
-		os.system("apt-key adv --keyserver pgp.mit.edu --recv-keys 603374c107a90a69d983dbcb4d31e0d6eedfc325")
+		os.system("apt-key adv --keyserver pgp.mit.edu --recv-keys 827C8569F2518CC677FECA1AED65462EC8D5E4C5")
 		f = open(tmp_key, "wb")
 		f.write("katuoolin\n")
 		f.close()
