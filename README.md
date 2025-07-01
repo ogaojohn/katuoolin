@@ -56,5 +56,5 @@ Please visit or try contact https://github.com/ogaojohn/katuoolin/issues
 - ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg)Whatsapp : https://wa.me/message/FN4EPAOUM2VTJ1
 - ![Katuoolin x](.readme/katuoolin_x.jpg)x: @ogaojohn
 - ![Katuoolin gmail](.readme/katuoolin_gmail.png)Email : ogaojohn10@gmail.com
-- ![Katuoolin whatsappgroup](.readme/katuoolin_whatsappgroup.png)Whatsapp : https://chat.whatsapp.com/JIjiodM7f4T02D43gfjUTA
-
+- ![Katuoolin whatsappgroup](.readme/katuoolin_whatsappgroup.png)<a href="https://chat.whatsapp.com/JIjiodM7f4T02D43gfjUTA
+" >Whatsapp goup</a> 
