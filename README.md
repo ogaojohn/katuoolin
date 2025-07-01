@@ -23,7 +23,7 @@ With just a click it allows you to install all Kali linux tools.
 - sudo katuoolin 
 
 # Video
-https://www.youtube.com/watch?v=ogaojohn
+![Katuoolin youtube](.readme/katuoolin_youtube.jpg):  https://www.youtube.com/watch?v=ogaojohn
 
 # Usage
 - Typing the number of a tool will install it
@@ -41,7 +41,7 @@ Please visit https://github.com/ogaojohn/katuoolin/issues
 
 # Donations
 - ![Katuoolin paypall](.readme/katuoolin_paypal.png)  Paypal : ogaojohn10@gmail.com
-- ![Katuoolin skrill](.readme/katuoolin_paypal.png)  skrill : ogaojohn10@gmail.com
+- ![Katuoolin skrill](.readme/katuoolin_skrill.png)  skrill : ogaojohn10@gmail.com
 
 
 # Contact
