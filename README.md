@@ -55,6 +55,6 @@ Please visit or try contact https://github.com/ogaojohn/katuoolin/issues
 - ![Katuoolin youtube](.readme/katuoolin_youtube.png) <a href="https://youtube.com/ogaojohn"> Youtube</a>
 - ![Katuoolin whatsapp](.readme/katuoolin_whatsapp.jpg) <a href="https://wa.me/message/FN4EPAOUM2VTJ1">Whatsapp</a>
 - ![Katuoolin x](.readme/katuoolin_x.jpg)x: @ogaojohn
-- ![Katuoolin gmail](.readme/katuoolin_gmail.png) <a href="emailto:ogaojohn10@gmail.com">Email</a>
+- ![Katuoolin gmail](.readme/katuoolin_gmail.png) <a href="mailto:ogaojohn10@gmail.com">Email</a>
 - ![Katuoolin whatsappgroup](.readme/katuoolin_whatsappgroup.png)<a href="https://chat.whatsapp.com/JIjiodM7f4T02D43gfjUTA
 " >Whatsapp goup</a> 
