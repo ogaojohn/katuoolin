@@ -18,15 +18,25 @@ With just a click it allows you to install all Kali linux tools.
 
 # Installation on kali
 
-- ```sudo su ```
+- ```bash 
+sudo su
+ ```
 
-- ```git clone https://github.com/ogaojohn/katuoolin.git ```
+- ```bash
+git clone https://github.com/ogaojohn/katuoolin.git 
+```
 
-- ``` cd katuoolin```
+- ```bash
+ cd katuoolin
+ ```
 
-- ```ls```
+- ```bash
+ls
+```
 
-- ```sudo python katuoolin.py```
+- ```bash 
+sudo python katuoolin.py
+```
 
 # Video
 ![Katuoolin youtube](.readme/katuoolin_youtube.jpg) <a href="https://www.youtube.com/watch?v=ogaojohn">video link</a>
