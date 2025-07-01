@@ -43,7 +43,7 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 
 # I have some questions!
 
-Please visit https://github.com/ogaojohn/katuoolin/issues
+Please visit or try contact https://github.com/ogaojohn/katuoolin/issues
 
 # Donations
 - ![Katuoolin paypall](.readme/katuoolin_paypal.png)  Paypal : ogaojohn10@gmail.com
