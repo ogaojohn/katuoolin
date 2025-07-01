@@ -18,23 +18,23 @@ With just a click it allows you to install all Kali linux tools.
 
 # Installation on kali
 
-- ```
+```
 sudo su
  ```
 
-- ```
+```
 git clone https://github.com/ogaojohn/katuoolin.git 
 ```
 
-- ```
+```
  cd katuoolin
  ```
 
-- ```
+```
 ls
 ```
 
-- ``` 
+``` 
 sudo python katuoolin.py
 ```
 
